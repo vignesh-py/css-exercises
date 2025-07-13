@@ -1,0 +1,22 @@
+.oddnum {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#num-2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.font-size{
+    font-size: 24px;
+}
+
+#num-4{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+
