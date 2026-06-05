@@ -9,9 +9,13 @@ body {
 }
 
 .header {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
   background: white;
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
+  padding: 10PX;
 }
 
 .profile-image {
@@ -45,4 +49,16 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 15px;
+  margin: 0;
+  padding: 0;
+}
+
+
+.left , .right{
+  display: flex;
+  margin: 15PX;
+  align-items: center;
+  gap: 10px;
 }
